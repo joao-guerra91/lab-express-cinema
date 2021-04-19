@@ -1,0 +1,35 @@
+html, body {
+  /* padding: 50px; */
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.index{
+  background-image: url(../images/cinema.jpg);
+  background-size: cover;;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+
+.index h1 {
+  font-size: 60px;
+  position: absolute;
+  left: 800px;
+  top: 300px;
+}
+
+.button {
+  border-radius: 50px;
+  padding: 10px 15px;
+  color:rgb(68, 104, 136);
+  position: absolute;
+  left: 950px;
+  top: 400px;
+}
+
+
